@@ -1,0 +1,46 @@
+ID,Name,Description,Credits,Course,Year Level,Semester
+A23456,IT101,Introduction to Information Technology,3,IT,1st,1st
+A34241,IT102,Computer Concepts and Fundamentals,3,IT,1st,1st
+A23144,MATH101,College Algebra,3,IT,1st,1st
+A32455,ENG101,English Communication Skills 1,3,IT,1st,1st
+A12314,FIL101,Komunikasyon sa Akademikong Filipino,3,IT,1st,1st
+A42423,PE1,Physical Education 1,2,IT,1st,1st
+34324A,IT103,Computer Programming 1,3,IT,1st,2nd
+56758A,IT104,Computer Hardware Fundamentals,3,IT,1st,2nd
+23425A,MATH102,Trigonometry,3,IT,1st,2nd
+42346A,ENG102,English Communication Skills 2,3,IT,1st,2nd
+42345A,NSTP1,National Service Training Program 1,3,IT,1st,2nd
+45678A,PE2,Physical Education 2,2,IT,1st,2nd
+B64576,IT201,Computer Programming 2,2,IT,2nd,1st
+B65897,IT202,Data Structures,3,IT,2nd,1st
+B53678,IT203,Operating Systems,3,IT,2nd,1st
+B45732,MATH201,Discrete Mathematics,3,IT,2nd,1st
+B54798,ENG201,Technical Writing,3,IT,2nd,1st
+B46421,NSTP2,National Service Training Program 2,2,IT,2nd,1st
+21315B,IT204,Object-Oriented Programming,3,IT,2nd,2nd
+23244B,IT205,Database Management Systems,3,IT,2nd,2nd
+24235B,IT206,Web Development,3,IT,2nd,2nd
+67567B,IT207,Networking 1,3,IT,2nd,2nd
+78678B,SOC201,Society and Culture,3,IT,2nd,2nd
+54664B,PE3,Physical Education 3,2,IT,2nd,2nd
+C34242,IT301,Systems Analysis and Design,3,IT,3rd,1st
+C35453,IT302,Advanced Database Systems,3,IT,3rd,1st
+C53564,IT303,Advanced Web Development,3,IT,3rd,1st
+C77695,IT304,Networking 2,3,IT,3rd,1st
+C56790,IT305,Information Security,3,IT,3rd,1st
+C54674,PE4,Physical Education 4,2,IT,3rd,1st
+23132C,IT306,Mobile Application Development,3,IT,3rd,2nd
+12313C,IT307,Software Engineering,3,IT,3rd,2nd
+32454C,IT308,IT Project Management,3,IT,3rd,2nd
+34235C,IT309,Cloud Computing,3,IT,3rd,2nd
+34354C,IT310,Professional Ethics in IT,3,IT,3rd,2nd
+59485C,ELEC1,IT Elective 1,3,IT,3rd,2nd
+D43535,IT401,Capstone Project 1,3,IT,4th,1st
+D87456,IT402,IT Research 1,3,IT,4th,1st
+D73485,IT403,Enterprise Architecture,3,IT,4th,1st
+D94856,ELEC2,IT Elective 2,3,IT,4th,1st
+D45353,ELEC3,IT Elective 3,3,IT,4th,1st
+98822D,IT404,Capstone Project 2,3,IT,4th,2nd
+43242D,IT405,IT Research 2,3,IT,4th,2nd
+78545D,IT406,IT Practicum/Internship,6,IT,4th,2nd
+24513D,ELEC4,IT Elective 4,3,IT,4th,2nd
